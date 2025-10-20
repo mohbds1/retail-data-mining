@@ -1,7 +1,7 @@
 # 🛒 Retail Data Mining Project
 
 **Author:** Legend (Mohammed)  
-**Course:** Data Science – Practical Exam  
+**Course:** Data Mining – Practical Exam  
 **Language:** Python 3.10+  
 **Dataset:** Retail Transactions (5,000 rows × 24 columns)
 
